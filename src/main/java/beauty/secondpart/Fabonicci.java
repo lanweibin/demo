@@ -1,7 +1,7 @@
-package beauty;
+package beauty.secondpart;
 
 /**
- * 斐波那契函数
+ * 2.9斐波那契函数
  */
 
 public class Fabonicci {

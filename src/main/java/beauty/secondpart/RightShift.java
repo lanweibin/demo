@@ -1,5 +1,8 @@
-package beauty;
+package beauty.secondpart;
 
+/**
+ * 2.17 数组循环位移
+ */
 public class RightShift {
     public  static int[] Right(int[] arr, int n){
         while(n-->0){
