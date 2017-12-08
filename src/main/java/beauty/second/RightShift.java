@@ -1,4 +1,4 @@
-package beauty.secondpart;
+package beauty.second;
 
 /**
  * 2.17 数组循环位移

@@ -1,4 +1,4 @@
-package beauty.secondpart;
+package beauty.second;
 
 /**
  * 2.9斐波那契函数
